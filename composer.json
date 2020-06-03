@@ -1,13 +1,13 @@
 {
-  "name": "carloscgo/onesignal-laravel",
-  "description": "OneSignal Push Wrapper Laravel 5",
+  "name": "carlosh1989/onesignal-laravel",
+  "description": "OneSignal Push Wrapper Laravel 5, 6, 7",
   "keywords": ["onesignal", "webpush", "push", "laravel", "laravel 5"],
   "type": "library",
   "require": {
     "php": ">=5.4.0",
     "guzzlehttp/guzzle": "^6.2",
-    "illuminate/support": "4.*|5.*",
-    "symfony/psr-http-message-bridge": "1.*"
+    "illuminate/support": "4.*|5.*|6.*|7.*",
+    "symfony/psr-http-message-bridge": "1.*|2.*"
   },
   "require-dev": {
     "vlucas/phpdotenv": "^2.2"
@@ -20,9 +20,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Carlos Camacho",
-      "email": "carloscgo123@gmail.com",
-      "homepage": "https://linkedin.com/in/carlos-camacho-29755043"
+      "name": "Carlos Silva",
+      "email": "carloshsilva1989@gmail.com",
+      "homepage": "https://www.linkedin.com/in/carlossilva89/"
     }
   ],
   "minimum-stability": "dev",
